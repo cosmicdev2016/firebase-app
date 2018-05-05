@@ -7,11 +7,11 @@ export const environment = {
   production: false,
   //add firebase config
   firebase: {
-    apiKey: "AIzaSyAD7UMYOOGY94Wh88NQCXIpPhcfTwEra-k",
-    authDomain: "fir-test-4b507.firebaseapp.com",
-    databaseURL: "https://fir-test-4b507.firebaseio.com",
-    projectId: "fir-test-4b507",
-    storageBucket: "fir-test-4b507.appspot.com",
-    messagingSenderId: "470209098930"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: ""
   }
 };
